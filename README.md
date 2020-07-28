@@ -1,5 +1,6 @@
 # xrshop_h5
 
+项目简介
 ## Project setup
 ```
 pnpm install
