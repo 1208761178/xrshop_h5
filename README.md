@@ -6,7 +6,7 @@ xrshop是基于当前流行技术采用前后端分离商城系统,包含商城,
 
 #### 体验地址
 
-|   官网地址  |    http://shengxian.judaixia.com 
+|   官网地址  |    http://ds.judaixia.com/preview/0
 
 
 ## 功能
